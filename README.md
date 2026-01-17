@@ -1,2 +1,1 @@
-# Bcon-Update
-Bcon New Website
+# bcon-new
